@@ -17,8 +17,11 @@
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.0",
+    "excel4node": "^1.7.2",
     "express": "^4.17.2",
-    "helmet": "^5.0.2"
+    "git-status": "^1.0.10",
+    "helmet": "^5.0.2",
+    "sort-by-typescript": "^1.2.1"
   },
   "devDependencies": {
     "@types/cors": "^2.8.12",
